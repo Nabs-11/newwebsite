@@ -1,3 +1,4 @@
+
 * {
 	box-sizing: border-box;
 }
@@ -14,14 +15,12 @@
 	clear: both;
 }
 
+button {
+	padding:10px;
+}
+
 /*
 body {
 	background: url(https://cdn.discordapp.com/attachments/809694848059441152/815234262294986792/ooooo.jpg)	
 }
 */
-
-
-
-
-
-
